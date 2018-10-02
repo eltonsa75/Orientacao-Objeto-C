@@ -12,6 +12,15 @@ namespace Projeto2
         public double preco;
         public int quantidadeEmEstoque;
 
+            /* Construtor */
+            public Produto(string nome, double preco, int quantidadeEmEstoque)
+        {
+            /* This é uma referencia ao próprio objeto */
+            this.nome = nome;
+            this.preco = preco;
+            this.quantidadeEmEstoque = quantidadeEmEstoque;
+        }
+
         /* Emplementação dos Metodos */
         public double valorTotalEmEstoque()
         {

@@ -10,15 +10,15 @@ namespace Projeto2
             int qte;
             Produto P;
 
-            P = new Produto();
-
             Console.WriteLine("Digite os dados do Produto: ");
             Console.Write("Nome: ");
-            P.nome = Console.ReadLine();
+            string nome = Console.ReadLine();
             Console.Write("Preço");
-            P.preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Quantidade em estoque: ");
-            P.quantidadeEmEstoque = int.Parse(Console.ReadLine());
+            int quantidade = int.Parse(Console.ReadLine());
+
+            P = new Produto(nome, preco, quantidade); 
 
             Console.WriteLine();
             Console.WriteLine("Dados do Produto: " + P);
