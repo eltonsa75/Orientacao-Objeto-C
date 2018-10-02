@@ -1,0 +1,7 @@
+Níveis de acesso em C# para atributos e métodos
+
+public => sem retrição
+private (padrão) => somente a própria classe pode acessar
+protected => Somente a própria classe e suas subclasses podem acessar
+internal => Somente as classes do mesmo projeto podem acessar
+protected internal => Somente as classes do mesmo projeto e subclasses podem acessar
