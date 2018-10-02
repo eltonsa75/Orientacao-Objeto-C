@@ -1,0 +1,11 @@
+D:\curso_visual_studio\POO\Projeto_Conta_Bancaria\Projeto_Conta_Bancaria\bin\Debug\netcoreapp2.1\Projeto_Conta_Bancaria.deps.json
+D:\curso_visual_studio\POO\Projeto_Conta_Bancaria\Projeto_Conta_Bancaria\bin\Debug\netcoreapp2.1\Projeto_Conta_Bancaria.runtimeconfig.json
+D:\curso_visual_studio\POO\Projeto_Conta_Bancaria\Projeto_Conta_Bancaria\bin\Debug\netcoreapp2.1\Projeto_Conta_Bancaria.runtimeconfig.dev.json
+D:\curso_visual_studio\POO\Projeto_Conta_Bancaria\Projeto_Conta_Bancaria\bin\Debug\netcoreapp2.1\Projeto_Conta_Bancaria.dll
+D:\curso_visual_studio\POO\Projeto_Conta_Bancaria\Projeto_Conta_Bancaria\bin\Debug\netcoreapp2.1\Projeto_Conta_Bancaria.pdb
+D:\curso_visual_studio\POO\Projeto_Conta_Bancaria\Projeto_Conta_Bancaria\obj\Debug\netcoreapp2.1\Projeto_Conta_Bancaria.csprojAssemblyReference.cache
+D:\curso_visual_studio\POO\Projeto_Conta_Bancaria\Projeto_Conta_Bancaria\obj\Debug\netcoreapp2.1\Projeto_Conta_Bancaria.csproj.CoreCompileInputs.cache
+D:\curso_visual_studio\POO\Projeto_Conta_Bancaria\Projeto_Conta_Bancaria\obj\Debug\netcoreapp2.1\Projeto_Conta_Bancaria.AssemblyInfoInputs.cache
+D:\curso_visual_studio\POO\Projeto_Conta_Bancaria\Projeto_Conta_Bancaria\obj\Debug\netcoreapp2.1\Projeto_Conta_Bancaria.AssemblyInfo.cs
+D:\curso_visual_studio\POO\Projeto_Conta_Bancaria\Projeto_Conta_Bancaria\obj\Debug\netcoreapp2.1\Projeto_Conta_Bancaria.dll
+D:\curso_visual_studio\POO\Projeto_Conta_Bancaria\Projeto_Conta_Bancaria\obj\Debug\netcoreapp2.1\Projeto_Conta_Bancaria.pdb
