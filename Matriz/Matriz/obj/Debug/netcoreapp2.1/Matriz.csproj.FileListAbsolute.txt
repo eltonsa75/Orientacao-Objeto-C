@@ -1,0 +1,11 @@
+D:\curso_visual_studio\POO\Matriz\Matriz\bin\Debug\netcoreapp2.1\Matriz.deps.json
+D:\curso_visual_studio\POO\Matriz\Matriz\bin\Debug\netcoreapp2.1\Matriz.runtimeconfig.json
+D:\curso_visual_studio\POO\Matriz\Matriz\bin\Debug\netcoreapp2.1\Matriz.runtimeconfig.dev.json
+D:\curso_visual_studio\POO\Matriz\Matriz\bin\Debug\netcoreapp2.1\Matriz.dll
+D:\curso_visual_studio\POO\Matriz\Matriz\bin\Debug\netcoreapp2.1\Matriz.pdb
+D:\curso_visual_studio\POO\Matriz\Matriz\obj\Debug\netcoreapp2.1\Matriz.csprojAssemblyReference.cache
+D:\curso_visual_studio\POO\Matriz\Matriz\obj\Debug\netcoreapp2.1\Matriz.csproj.CoreCompileInputs.cache
+D:\curso_visual_studio\POO\Matriz\Matriz\obj\Debug\netcoreapp2.1\Matriz.AssemblyInfoInputs.cache
+D:\curso_visual_studio\POO\Matriz\Matriz\obj\Debug\netcoreapp2.1\Matriz.AssemblyInfo.cs
+D:\curso_visual_studio\POO\Matriz\Matriz\obj\Debug\netcoreapp2.1\Matriz.dll
+D:\curso_visual_studio\POO\Matriz\Matriz\obj\Debug\netcoreapp2.1\Matriz.pdb
